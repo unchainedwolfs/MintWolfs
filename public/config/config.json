@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x718a69F8b4DA0548de1c7F090e67c1E3D16EB744",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x718a69F8b4DA0548de1c7F090e67c1E3D16EB744",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "THE UNCHAINED WOLFS",
+  "SYMBOL": "UW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Check Opeansea Market Place!",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-wolfs",
+  "SHOW_BACKGROUND": true
+}

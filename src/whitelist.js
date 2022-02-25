@@ -1,0 +1,14 @@
+module.exports = [
+  {
+    wallet: '0xa33cf97c010f9e4bb06d0851e5bc3a6c02f85739',
+    v: '0x1b',
+    r: '0x49bb936df88bb53cb68734bbdc49ab0cf5d8b2185ee10a979541f022485ea005',
+    s: '0x593dfdd3d898e18ce2da10690b33ee14859ac6402d2e2e3952e6f58532552dca'
+  },
+  {
+    wallet: '0xa3e67c48024433dbb80ce7b41d7221fa80799e26',
+    v: '0x1c',
+    r: '0x0557f70e344dcfe152d04f3347edbbe763746c110935e6125cd6c5d9cc0c2535',
+    s: '0x7b6cf42d5bac14cdfee1cd075a16bb021816e8065591371a4e0824fd4f3f6c36'
+  }
+]
